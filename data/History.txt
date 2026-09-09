@@ -1,0 +1,32 @@
+cd data
+cd Gui_Terminal
+cd ..
+cd .
+cd ..
+cd -
+cd ..
+cd .
+cd ..
+x1í6!d
+§IwB
+Û1í6!d
+T8í6!d
+§IwB
+
+lÂ
+ÍUUU
+lÂ
+ls -la
+cd ..
+ls
+ls -la
+cd ..
+ls -la
+
+ls -la
+echo "Hello World"
+WOW
+ls
+cat data/history
+cat ./data/history.txt
+cat ./data/History.txt
