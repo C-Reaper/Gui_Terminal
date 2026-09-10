@@ -30,3 +30,6 @@ ls
 cat data/history
 cat ./data/history.txt
 cat ./data/History.txt
+ls -la
+cat src/Main.c
+clear
