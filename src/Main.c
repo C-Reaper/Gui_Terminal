@@ -16,6 +16,8 @@ void Setup(AlxWindow* w){
 	Terminal_LoadHistory(&terminal,"./data/History.txt");
 }
 void Update(AlxWindow* w){
+	if(terminal.exit) w->Running = 0;
+
 	const float padding = 0.025f;
 	terminal.editor.rect.p.x = (float)padding * w->Width;
 	terminal.editor.rect.p.y = (float)padding * w->Height;

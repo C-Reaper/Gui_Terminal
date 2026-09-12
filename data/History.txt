@@ -1,35 +1,40 @@
-cd data
-cd Gui_Terminal
-cd ..
-cd .
-cd ..
-cd -
-cd ..
-cd .
-cd ..
-x1í6!d
-§IwB
-Û1í6!d
-T8í6!d
-§IwB
-
-lÂ
-ÍUUU
-lÂ
 ls -la
-cd ..
-ls
-ls -la
-cd ..
-ls -la
-
-ls -la
-echo "Hello World"
-WOW
-ls
-cat data/history
-cat ./data/history.txt
-cat ./data/History.txt
+src/Main.c
+cat src/Main.c
 ls -la
 cat src/Main.c
-clear
+ls -la
+ls
+neofetch
+ls -la
+exit
+ls -la
+exit
+./build/Main
+ls -la
+./build/Main
+ls
+neofetch
+ls -la
+ls -la/home/codeleaded/Hecke/C/Gui_Terminal $ ls -la
+ls -la
+neofetch
+ls -la
+ls -la/home/codeleaded/Hecke/C/Gui_Terminal $ ls -la
+ls -la
+ls
+ls -la
+/home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ 
+pwd
+/home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ 
+neofetch
+ls -la
+ls
+ls -la
+/home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ /home/codeleaded/Hecke/C/Gui_Terminal $ 
+ls -la
+ls
+ls -la/home/codeleaded/Hecke/C/Gui_Terminal $ ls -la
+neofetch
+iwconfig
+exit
