@@ -38,3 +38,10 @@ ls -la/home/codeleaded/Hecke/C/Gui_Terminal $ ls -la
 neofetch
 iwconfig
 exit
+ls -la
+pwd
+neofetch
+make -f Makefile.linux exe
+sudo apt update
+apt update
+exit
